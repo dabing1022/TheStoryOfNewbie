@@ -9,6 +9,7 @@
 - [解读2017 WWDC-Session 407-Understanding Undefined Behavior](https://mp.weixin.qq.com/s/1FOOXozJzISZOSvbzeEQrA)
 - [启动崩溃](https://mp.weixin.qq.com/s/BXbkA8Z4OkTwCCo44rXwhQ)
 - [简单的哲学](https://mp.weixin.qq.com/s/kAkLbCBdvTx0gP8z1uUwMQ)
+- [小菜与老鸟之侃侃MapReduce](https://mp.weixin.qq.com/s/RSoF8ZgHaXhMjGpD7B2Cqw)
 
 # 机器学习
 
